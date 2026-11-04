@@ -24,7 +24,8 @@ public class Bill {
 		System.out.println(".......................................................................");
 		System.out.println("Final Payable Amount............" + (amount + (amount * 18 / 100)));
 		System.out.println("========================================================");
-		System.out.println("THANK YOU FOR SHOPPING");
+		System.out.println("!......THANK YOU FOR SHOPPING.....!");
+
 
 	}
 }
